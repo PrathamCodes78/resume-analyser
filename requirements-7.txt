@@ -1,5 +1,0 @@
-flask
-flask-cors
-pdfminer.six
-scikit-learn
-gunicorn
