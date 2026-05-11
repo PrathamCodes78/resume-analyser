@@ -1,0 +1,65 @@
+# ─── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.env
+.env.local
+.env.production
+venv/
+env/
+ENV/
+.venv/
+
+# ─── Flask ────────────────────────────────────────────────
+instance/
+.flaskenv
+flask_session/
+
+# ─── Java ─────────────────────────────────────────────────
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+out/
+build/
+target/
+
+# ─── IntelliJ IDEA ────────────────────────────────────────
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# ─── VS Code ──────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ─── Eclipse ──────────────────────────────────────────────
+.classpath
+.project
+.settings/
+bin/
+
+# ─── OS Files ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ─── Uploaded Files (test resumes etc.) ───────────────────
+*.pdf
+uploads/
+
+# ─── Logs ─────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── Miscellaneous ────────────────────────────────────────
+*.tmp
+*.bak
+*.swp
+*.zip
+*.tar.gz
